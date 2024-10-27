@@ -1,0 +1,10 @@
+Research Questions based on dataset.
+
+1. How did Malaysia's COVID-19 case, recovery, and mortality trends change over time?
+2. What differences existed in COVID-19 transmission between Malaysia's various states and regions?
+3. Which Malaysian states or areas were most severely affected by COVID-19?
+4. How did Malaysia's COVID-19 case, hospitalization, and mortality rates vary by age and demographic group?
+5. How did COVID-19 testing rates change over time, and how successful was it at detecting and treating new cases?
+6. Which particular places—such as workplaces, schools, and medical facilities—saw the highest rates of COVID-19 transmission in Malaysia?
+
+
