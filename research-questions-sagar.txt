@@ -1,0 +1,10 @@
+Questions:
+
+1. Which states in Malaysia showed the highest and lowest vaccination coverag, and how did this correlate with COVID-19 case severity and hospitalizations?
+2. Are there any significant differences in COVID-19 case rates between urban and rural states in Malaysia, and how does vaccination coverage explain these differences?
+3. How did the rate of fully vaccinated individuals change over time, and what was impact on the rate of new COVID-19 cases in Malaysia?
+4. Which state in Malaysia achieved herd immunity first, and what factors contributed to its success compared to other states?
+5. What is the trend in number of COVID-19 cases across Malaysian states before and after the introduction of specific vaccination phases?
+6. How did the implementation of vaccination programs impact the trend of COVID-19 cases over time in Malaysia?
+
+
