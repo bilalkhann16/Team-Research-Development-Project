@@ -2,3 +2,5 @@
 2- COVID-19 Epidemic in Malaysia: Disussing Epidemic Progression, Challenges, and Response  || How has the progression of the COVID-19 epidemic in Malaysia shaped the nation's public health response, and what key challenges have emerged in controlling the epidemic effectively?
 3- How Malaysia Healthcare Early Response in Combatting COVID-19 Pandemic in 2020.
 4- What has been the impact of the COVID-19 pandemic on routine immunization programs, and how have disruptions to these programs affected public health outcomes?
+5- How have COVID-19 case numbers, hospitalizations, and deaths in Malaysia evolved over time?
+6- Which states or regions in Malaysia experienced the highest or lowest COVID-19 incidence rates, and why?
