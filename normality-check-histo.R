@@ -20,15 +20,3 @@ hist(cleaned_data$cases_total,
 x <- seq(min(cleaned_data$cases_total), max(cleaned_data$cases_total), length = 100)
 y <- dnorm(x, mean = mean(cleaned_data$cases_total), sd = sd(cleaned_data$cases_total))
 lines(x, y, col = "black", lwd = 2, lty = 2)
-
-# Perform Shapiro-Wilk test for normality
-# (Subset the data if it's very large, as Shapiro-Wilk works better with smaller samples)
-if (nrow(cleaned_data) > 500) {
-  sample_data <- sample(cleaned_data$cases_total, 500)
-  shapiro_test <- shapiro.test(sample_data)
-} else {
-  shapiro_test <- shapiro.test(cleaned_data$cases_total)
-}
-
-# Print the Shapiro-Wilk test results
-print(shapiro_test)
