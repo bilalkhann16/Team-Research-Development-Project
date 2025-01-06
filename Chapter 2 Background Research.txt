@@ -1,0 +1,34 @@
+Chapter 2: Background Research
+
+COVID-19, caused by the SARS-CoV-2 virus, emerged in late 2019 and rapidly escalated into a global pandemic, affecting millions of lives and overwhelming healthcare systems worldwide. The virus spread through respiratory droplets, prompting governments to implement various measures like lockdowns, mass testing, and contact tracing to control its transmission.
+In Malaysia, the pandemic posed significant challenges, particularly during waves of infections driven by large cluster outbreaks such as the Sri Petaling Tabligh gathering, which accounted for nearly half of the country's early cases. To curb the spread, Malaysia implemented strict measures like the Movement Control Order (MCO) and ramped up testing and contact tracing efforts. However, resource limitations highlighted the importance of efficient testing strategies to identify and manage high-risk clusters.
+The research question, "Is there a correlation between the total number of cases reported (dependent variable) and the number of tests conducted (independent variable) in each cluster?", is highly relevant in this context. Analyzing the relationship between testing volumes and case detection within clusters can provide valuable insights into optimizing testing policies. This is especially critical for resource-constrained settings like Malaysia, where judicious allocation of testing resources is essential for effective outbreak control and targeted interventions. By understanding this correlation, the study aims to contribute to improved outbreak management strategies and enhance preparedness for future health crises.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+2.1 Research Papers
+
+The Malaysia COVID-19 dataset has been extensively used in several research studies to analyze the epidemic's progression, assess its impacts, and guide public health responses. Below are three relevant research papers that utilized this dataset:
+1.	Hashim et al. (2021) in "COVID-19 Epidemic in Malaysia: Epidemic Progression, Challenges, and Response" analyzed Malaysia's COVID-19 progression and the impacts of the Movement Control Order (MCO). The study utilized national COVID-19 data to detail two epidemic waves, with a focus on clusters like the Sri Petaling Tabligh gathering, which accounted for 47% of cases. The data helped evaluate the effectiveness of testing, contact tracing, and MCO measures in reducing transmission and fatalities.
+2.	Jayaraj et al. (2021) in "The Epidemiology of COVID-19 in Malaysia" used COVID-19 case data from March 16, 2020, to May 31, 2021, to estimate epidemiological indicators such as 7-day incidence rates, case fatality rates, and test positivity ratios. The dataset enabled the study to identify critical transmission patterns and highlight the challenges posed by outbreaks in institutional populations, contributing to recommendations for non-pharmaceutical interventions.
+3.	Lim et al. (2022) in "COVID-19 Inpatient Deaths and Brought-in-Dead Cases in Malaysia" utilized nationwide COVID-19 mortality data to explore the characteristics of 29,155 deaths, 20.2% of which were brought-in-dead (BID) cases. The study identified factors such as age, vaccination status, and comorbidities associated with BID cases, emphasizing gaps in healthcare delivery and public health interventions.
+These studies demonstrate the vital role of Malaysia's COVID-19 dataset in understanding the pandemic's dynamics, evaluating interventions, and shaping public health strategies. The dataset's rich epidemiological insights have significantly contributed to local and global research efforts in combating COVID-19.
+
+References:
+1.	Hashim, J.H., Adman, M.A., Hashim, Z., Mohd Radi, M.F. and Kwan, S.C., 2021. COVID-19 epidemic in Malaysia: epidemic progression, challenges, and response. Frontiers in public health, 9, p.560592.
+2.	Jayaraj, V.J., Rampal, S., Ng, C.W. and Chong, D.W.Q., 2021. The epidemiology of COVID-19 in Malaysia. The Lancet Regional Health–Western Pacific, 17.
+3.	Alsayed, A., Sadir, H., Kamil, R. and Sari, H., 2020. Prediction of epidemic peak and infected cases for COVID-19 disease in Malaysia, 2020. International journal of environmental research and public health, 17(11), p.4076.
+4.	Salim, N., Chan, W.H., Mansor, S., Nazira Bazin, N.E., Amaran, S., Mohd Faudzi, A.A., Zainal, A., Huspi, S.H., Jiun Hooi, E.K. and Shithil, S.M., 2020. COVID-19 epidemic in Malaysia: Impact of lockdown on infection dynamics. medrxiv, pp.2020-04.
+5.	Lim, P.Y., Md Said, S., Kadir Shahar, H., Azman, A.Z.F., Mokhtar, S.A. and Mahmud, A., 2022. COVID-19 inpatient deaths and brought-in-dead cases in Malaysia. Frontiers in Public Health, 10, p.872838.
+6.	Elengoe, A., 2020. COVID-19 outbreak in Malaysia. Osong public health and research perspectives, 11(3), p.93.
+7.	Ahad, N.A., Okwonu, F.Z. and Siong, P.Y., 2020. COVID-19 Outbreak in Malaysia: Investigation on fatality cases. Journal of Advanced Research in Applied Sciences and Engineering Technology, 20(1), pp.1-10.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+2.1 Why RQ is of interest ?
+
+RQ: Is there a correlation between the total number of cases reported (dependent variable) and the number of tests conducted (independent variable) in each cluster?
+
+The research question (RQ) is of interest because it addresses a critical gap in understanding the correlation between the number of tests conducted (independent variable) and the total number of cases reported (dependent variable) in each COVID-19 cluster in Malaysia. While previous studies have explored the impact of significant events such as the Sri Petaling Tabligh gathering and evaluated the effectiveness of Malaysia's Movement Control Order (MCO), few have explicitly analyzed how testing volumes directly influenced the detection of cases within clusters.
+This correlation is essential for optimizing testing strategies, particularly in resource-constrained settings, where testing capacity must be allocated judiciously to maximize impact. Understanding the interplay between testing volumes and case detection can help identify high-risk clusters, prioritize interventions, and improve outbreak management. Since cluster outbreaks significantly shaped Malaysia’s epidemic trajectory, analyzing testing’s role in case reporting provides a foundation for evidence-based decision-making in resource allocation.
+Future research should focus on integrating testing data with epidemiological models to refine strategies for cluster management. Additionally, the scalability of such approaches to other developing nations could enhance global preparedness and resilience during future pandemics.
