@@ -1,0 +1,13 @@
+1) Is there a significant correlation between the vaccination rates and the number of deaths due to COVID-19 in Malaysia?
+2)How did vaccination rates vary across different age groups over time?
+3)What patterns or seasonal trends can be observed in the daily and cumulative vaccination numbers?
+4)What patterns or trends can be observed in the daily and cumulative COVID-19 death rates, and how do these trends compare to case rates and hospitalization metrics?
+
+
+5) Intro of Null Hypothesis (H0) and Alternative Hypothesis (H1),
+
+Null Hypothesis (H0)
+There is no significant correlation between vaccination rates and the number of deaths due to COVID-19 in Malaysia.
+
+Alternative Hypothesis (H1)
+There is a significant correlation between vaccination rates and the number of deaths due to COVID-19 in Malaysia.
