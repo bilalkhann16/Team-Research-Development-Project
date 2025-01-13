@@ -1,0 +1,10 @@
+Dataset Research Questions:
+
+1.	What were the trends in daily COVID-19 case, recovery, and mortality rates in Malaysia, and how did these trends shift during major pandemic phases?
+2.	How did COVID-19 case rates and mortality rates vary among Malaysia's states, and what regional factors may have contributed to these differences?
+3.	Which states in Malaysia experienced the highest surges in COVID-19 cases, and how did these correlate with healthcare capacity in those areas?
+4.	How did COVID-19 case and mortality rates in Malaysia vary across age, gender, and other demographics throughout the pandemic?
+5.	What patterns can be observed in Malaysia’s COVID-19 testing rates over time, and how closely do these correlate with case detection and mortality rates?
+6.	How did Malaysia's vaccination rollout impact COVID-19 transmission and recovery rates across different regions and demographics?
+7.	Which settings—such as residential areas, public transportation, or specific workplaces—were identified as significant hotspots for COVID-19 transmission in Malaysia?
+8.	What were the impacts of government-imposed lockdowns and other interventions on the spread and containment of COVID-19 in Malaysia over time?
